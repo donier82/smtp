@@ -21,7 +21,7 @@ def send_email(to_email, subject, message):
     except Exception as error:
         return f"Error {error}"
 
-print(send_email('sfly9512@gmail.com', 'ДОЛГОЖДАННЫЙ LAST SUNDAY + ВЫПУСКНОЙ🎓', 
+print(send_email('donierosh@gmail.com', 'ДОЛГОЖДАННЫЙ LAST SUNDAY + ВЫПУСКНОЙ🎓', 
                  """
 Дорогие студенты!
 
